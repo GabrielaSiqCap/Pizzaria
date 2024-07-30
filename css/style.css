@@ -39,7 +39,6 @@ header {
     rgba(0, 0, 0, 0.8) 60%,
     rgba(0, 0, 0, 0) 100%
   );
-  padding: 24px 0;
 
   background: -webkit-linear-gradient(
     to bottom,
@@ -47,7 +46,6 @@ header {
     rgba(0, 0, 0, 0.8) 60%,
     rgba(0, 0, 0, 0) 100%
   );
-  padding: 24px 0;
 
   background: -moz-linear-gradient(
     to bottom,
@@ -55,7 +53,7 @@ header {
     rgba(0, 0, 0, 0.8) 60%,
     rgba(0, 0, 0, 0) 100%
   );
-  padding: 24px 0;
+  /* padding: 24px 0; */
 }
 
 .container {
@@ -120,4 +118,9 @@ header {
   display: flex;
   align-items: center;
   gap: 7px;
+}
+
+.Zap {
+  text-decoration: none;
+  color: #fff;
 }
