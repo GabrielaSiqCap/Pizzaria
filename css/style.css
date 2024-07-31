@@ -215,7 +215,7 @@ header {
 }
 
 #Delivery{
-  min-height: 270px;
+  max-height: 270px;
   background: #ebe7db;
   margin: 50px 0;
   display: flex;
@@ -234,6 +234,18 @@ header {
 #Delivery .sec-menu{
   justify-content: center;
   padding: 40px;
+}
+
+#Icone{
+  display: flex;
+  justify-content: center;
+  gap: 70px;
+  margin: 20px 0;
+}
+
+.itens{
+  max-width: 250px;
+  text-align: center;
 }
 
 /* #Cardapio div {
