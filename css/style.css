@@ -214,6 +214,28 @@ header {
   padding-top: 20px;
 }
 
+#Delivery{
+  min-height: 270px;
+  background: #ebe7db;
+  margin: 50px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 100px;
+  text-align: center;
+}
+
+#Delivery h1{
+  text-transform: uppercase;
+  color: #bf0a26;
+  font-weight: 900;
+}
+
+#Delivery .sec-menu{
+  justify-content: center;
+  padding: 40px;
+}
+
 /* #Cardapio div {
   width: 100%;
   display: flex;
