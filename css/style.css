@@ -197,7 +197,7 @@ header {
 .btnCardapio {
   text-decoration: none;
   color: #fff;
-  background: #8daa3e;
+  background: #2a764f;
   padding: 10px 20px;
   border-radius: 50px;
   border-bottom: 2px solid #6b7552;
@@ -226,7 +226,7 @@ header {
 
 #Delivery h1 {
   text-transform: uppercase;
-  color: #bf0a26;
+  color: #a70a21;
   font-weight: 900;
 }
 
